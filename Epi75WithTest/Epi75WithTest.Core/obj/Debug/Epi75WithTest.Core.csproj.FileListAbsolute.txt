@@ -1,0 +1,5 @@
+C:\EPiServer\Sites\Epi75WithTest\EPiServer75MvcSite1\Epi75WithTest\Epi75WithTest.Core\bin\Debug\Epi75WithTest.Core.dll
+C:\EPiServer\Sites\Epi75WithTest\EPiServer75MvcSite1\Epi75WithTest\Epi75WithTest.Core\bin\Debug\Epi75WithTest.Core.pdb
+C:\EPiServer\Sites\Epi75WithTest\EPiServer75MvcSite1\Epi75WithTest\Epi75WithTest.Core\obj\Debug\Epi75WithTest.Core.dll
+C:\EPiServer\Sites\Epi75WithTest\EPiServer75MvcSite1\Epi75WithTest\Epi75WithTest.Core\obj\Debug\Epi75WithTest.Core.pdb
+C:\EPiServer\Sites\Epi75WithTest\EPiServer75MvcSite1\Epi75WithTest\Epi75WithTest.Core\obj\Debug\Epi75WithTest.Core.csprojResolveAssemblyReference.cache
