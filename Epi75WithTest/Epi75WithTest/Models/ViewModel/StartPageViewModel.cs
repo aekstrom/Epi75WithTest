@@ -11,6 +11,7 @@ namespace Epi75WithTest.Models.ViewModel
     public class StartPageViewModel : BaseViewModel
     {
         public XhtmlString MainBody { get; set; }
+        public IEnumerable<IContent> TopMenu { get; set; }
     }
 
 }

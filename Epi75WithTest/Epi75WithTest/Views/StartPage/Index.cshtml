@@ -5,6 +5,19 @@
 
 <div>Startsida</div>
 
+<div id="menu">
+    
+    <ul class="nav-list nav-list-2">
+        @foreach (var page in @Model.TopMenu)
+        {      
+            <li class="nav-list-item">
+                @Html.PageLink(page.ContentLink as PageReference, null, new { @class="nav-list-link" })
+            </li>           
+        }
+    </ul>
+
+</div>
+
 <div>
   @Html.PropertyFor(m => m.MainBody)
 </div>
