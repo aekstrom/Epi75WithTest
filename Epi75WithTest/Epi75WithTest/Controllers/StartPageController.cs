@@ -14,7 +14,7 @@ namespace Epi75WithTest.Controllers
 {
     public class StartPageController : PageController<StartPage>
     {
-        private IMenuHandler _iMenuHandler;
+       // private IMenuHandler _iMenuHandler;
 
   
 
